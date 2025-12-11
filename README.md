@@ -4,6 +4,7 @@ It analyzes movie metadata such as genres, cast, crew, keywords, and overview, c
 The system also fetches movie posters and extra details in real time using the TMDB API and displays everything through an interactive Streamlit web app.
 
 Features
+
 🔹1. Movie Recommendation
 
 Recommend top 5 similar movies using cosine similarity
@@ -25,6 +26,7 @@ Release year
 Rating
 
 Budget & Revenue
+
 🔹 2. Additional Recommendation Categories
 
 Similar by Genre
